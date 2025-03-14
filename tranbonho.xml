@@ -164,7 +164,7 @@ button:hover {
 </script>
       <script>
         const messages = [
-  &quot;Nhớ nhớ nhớ em:)!&quot;
+  &quot;Nhớ nhớ nhớ em!&quot;
 ];
 
 function generateRandomNotifications() {
